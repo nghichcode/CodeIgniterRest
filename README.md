@@ -1,2 +1,0 @@
-# CodeIgniterRest
-CodeIgniterRest boilerplate
